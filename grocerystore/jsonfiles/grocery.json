@@ -1,0 +1,60 @@
+[
+
+
+  {
+    "id": 0,
+    "name": "Potato",
+    "category": "Vegetable",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/iC7HBvohbJqExqvbKcV3pP.jpg"
+  },
+
+  {
+    "id": 1,
+    "name": "Carrots",
+    "category": "Vegetable",
+    "imageUrl": "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2017/07/coloredCarrots-022521-LD-770x533-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Brinjal",
+    "category": "Vegetable",
+    "imageUrl": "https://www.jiomart.com/images/product/600x600/590003545/brinjal-nagpure-500-g-product-images-o590003545-p590003545-0-202203152230.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cabbage",
+    "category": "Vegetable",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Cabbage_and_cross_section_on_white.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Radish",
+    "category": "Vegetable",
+    "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2019/05/radish-shutterstock_1010435131.jpg?fit=700,700"
+  },
+  {
+    "id": 5,
+    "name": "Onion",
+    "category": "Vegetable",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mixed_onions.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Lady’s finger",
+    "category": "Vegetable",
+    "imageUrl": "https://pictures.grocerapps.com/original/grocerapp-lady-finger--627ce0012d1fb.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Cauliflower",
+    "category": "Vegetable",
+    "imageUrl": "https://post.healthline.com/wp-content/uploads/2020/09/cauliflower-thumb.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pumpkin",
+    "category": "Vegetable",
+    "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/pumpkin-3f3d894.jpg?quality=90&resize=556,505"
+  }
+
+]

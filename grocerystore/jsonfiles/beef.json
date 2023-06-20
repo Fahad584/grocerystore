@@ -1,0 +1,24 @@
+[
+
+
+  {
+    "id": 0,
+    "name": "Leg",
+    "category": "Beef",
+    "imageUrl": "https://www.shutterstock.com/image-photo/raw-beef-leg-on-white-260nw-539486665.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Head",
+    "category": "Beaf",
+    "imageUrl": "https://www.shutterstock.com/image-photo/raw-beef-leg-on-white-260nw-539486665.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Puth",
+    "category": "Beaf",
+    "imageUrl": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12621149-0-M.jpg?5"
+  }
+
+
+]

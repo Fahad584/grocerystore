@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Bell",
+    "category": "Pepper",
+    "imageUrl": "https://www.farmers4u.pk/wp-content/uploads/2022/06/RedBell-Pepper.png"
+  },
+  {
+    "id": 1,
+    "name": "Poblano",
+    "category": "Pepper",
+    "imageUrl": "https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2013/09/Poblano-Peppers2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Anaheim",
+    "category": "Pepper",
+    "imageUrl": "https://www.highmowingseeds.com/media/catalog/product/cache/6cbdb003cf4aae33b9be8e6a6cf3d7ad/2/8/2842-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Serrano",
+    "category": "Pepper",
+    "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2021/04/Serrano-Peppers.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Habañero",
+    "category": "Pepper",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0243/8263/6087/articles/pexels-ivan-torres-1374651_1280x.jpg?v=1621956200"
+  },
+  {
+    "id": 5,
+    "name": "Cayenne",
+    "category": "Pepper",
+    "imageUrl": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/267248_2200-732x549.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Rocoto ",
+    "category": "Pepper",
+    "imageUrl": "https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2019/09/Rocoto-Peppers.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Piri",
+    "category": "Pepper",
+    "imageUrl": "https://compadrecooking.pt/wp-content/uploads/peri-peri-chili-resized.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mirasol",
+    "category": "Pepper",
+    "imageUrl": "https://s3.amazonaws.com/mygardenlife.com/plant-library/full/6255_21.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tabasco",
+    "category": "Pepper",
+    "imageUrl": "https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2013/09/Tabasco-Peppers-3.jpg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+{
+  "id": 0,
+  "name": "Apple",
+  "category": "Fruits",
+  "imageUrl": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/health-benefits-of-apples-1296x728-feature.jpg"
+},
+{
+"id": 1,
+"name": "Strawberry",
+"category": "Fruits",
+"imageUrl": "https://healthwire.pk/wp-content/uploads/2022/03/strawberry-benefits.jpg"
+},
+{
+"id": 2,
+"name": "Pineapple",
+"category": "Fruits",
+"imageUrl": "https://www.tazaonline.com/wp-content/uploads/2019/10/pineapple-1.jpg"
+},
+{
+"id": 3,
+"name": "Grapes",
+"category": "Fruits",
+"imageUrl": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/01/grapes-1296x728-header.jpg?w=1155&h=1528"
+},
+{
+"id": 4,
+"name": "Mango",
+"category": "Fruits",
+"imageUrl": "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/322/322096/mangoes-chopped-and-fresh.jpg?w=1155&h=1541"
+},
+{
+"id": 5,
+"name": "Banana",
+"category": "Fruits",
+"imageUrl": "https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2018/08/bananas-1354785_1920.jpg"
+},
+{
+"id": 6,
+"name": "Orange",
+"category": "Fruits",
+"imageUrl": "https://saremco.com.pk/wp-content/uploads/2020/09/Orange-export-opt-1.jpg"
+},
+{
+"id": 7,
+"name": "Pomegranate",
+"category": "Fruits",
+"imageUrl": "https://health.clevelandclinic.org/wp-content/uploads/sites/3/2019/10/pomegranateSeeds-157565485-770x533-1.jpg"
+},
+{
+"id": 8,
+"name": "Watermelon",
+"category": "Fruits",
+"imageUrl": "https://img.freepik.com/premium-vector/ripe-watermelon-juicy-piece-white-background-isolated_269543-89.jpg?w=2000"
+},
+{
+"id": 9,
+"name": "Cherry",
+"category": "Fruits",
+"imageUrl": "https://healthwire.pk/wp-content/uploads/2022/07/benefits-of-cherry.jpg"
+}
+]
