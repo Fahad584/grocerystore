@@ -1,4 +1,4 @@
-# grocerystore
+# grocerystore.
 The application, they won’t need to personally visit grocery stores just to buy fruits. The application will help them save more time and effort. The target users of the system are grocery stores and their clients.
 ![1](https://github.com/Fahad584/grocerystore/assets/107251127/c9b3d0ee-a21d-455a-9583-7c5afe97c1b7)
 ![2](https://github.com/Fahad584/grocerystore/assets/107251127/395d47ce-795c-4bfc-aadc-ca627eca8c5f)
